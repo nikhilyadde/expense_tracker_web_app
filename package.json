@@ -8,6 +8,8 @@
     "@testing-library/user-event": "^12.2.2",
     "bad-words": "^3.0.4",
     "firebase": "^8.6.2",
+    "firebase-admin": "^9.8.0",
+    "firebase-functions": "^3.14.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
